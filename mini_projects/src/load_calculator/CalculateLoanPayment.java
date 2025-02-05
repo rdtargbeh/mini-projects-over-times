@@ -4,6 +4,12 @@ package load_calculator;
  * Author: Ronaldo Doe Targbeh
  * Date: September 4, 2023
  * 
+ * The CalculateLoanPayment class is a Java program that calculates and displays a loan’s monthly payment, 
+ * total payment over the loan term, and a detailed amortization schedule. It takes user input for the loan amount, 
+ * annual interest rate, and loan duration, then computes monthly payments using the standard loan formula. 
+ * The program dynamically updates the interest charged, principal paid, and remaining balance for each month, 
+ * providing an accurate breakdown of how the loan is paid off over time.
+ * 
  */
 
 import java.util.Scanner;
